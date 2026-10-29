@@ -1,0 +1,10 @@
+id: YDP382B001-V13
+category: displays
+size: "3.82"
+panel: tft
+resolution: 280x1020
+interface: [mipi]
+driver: AXS15231B
+touch: null
+outline: 28.11 x 98.85 mm
+active_area: 25.7 x 93.636 mm
